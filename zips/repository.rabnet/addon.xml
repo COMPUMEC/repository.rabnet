@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.rabnet" name="RABNET" version="0.0.1" provider-name="COMPUMEC">
+	<extension point="xbmc.addon.repository" name="RABNET">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/compumec/repository.rabnet/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/compumec/repository.rabnet/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/compumec/repository.rabnet/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">RABNET a repository for family & friends</summary>
+		<description lang="en">Just for the fun of it. Keep Trusting & Keep Believing!</description>
+		<genre>skin,wizard,usa</genre>
+	</extension>
+</addon>
